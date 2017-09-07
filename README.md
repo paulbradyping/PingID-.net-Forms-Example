@@ -8,7 +8,10 @@ Pre- Requisites
 -Test User other than the 1st Administrator
 
 Install
-- Extract the file to a local folder. 
+-Clone the repository and download the zip. 
+
+Extract it,  in the debug folder you will find the compiled .exe 
+
 
 Start the application. 
 -To Start the application use the windows explorer and browse to the folder that has PingIDAPI.exe in it.
@@ -17,6 +20,8 @@ Run the PingIDAPI.exe
 You need the pingID properties file from the PingOne Tenant you are testing with
 Browse to select that file
 
+You can Add a New user or you can use existing users.   
+OR
 Enter the username of a someone that is Registered in PingOne with a device(s)
 
 Click Start Authenticate
