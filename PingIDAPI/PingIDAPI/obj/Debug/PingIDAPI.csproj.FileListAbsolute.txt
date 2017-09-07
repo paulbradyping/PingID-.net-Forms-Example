@@ -1,0 +1,10 @@
+C:\MyProgramsPing\PingIDAPI\PingIDAPI\bin\Debug\PingIDAPI.exe.config
+C:\MyProgramsPing\PingIDAPI\PingIDAPI\bin\Debug\PingIDAPI.exe
+C:\MyProgramsPing\PingIDAPI\PingIDAPI\bin\Debug\PingIDAPI.pdb
+C:\MyProgramsPing\PingIDAPI\PingIDAPI\obj\Debug\PingIDAPI.csprojResolveAssemblyReference.cache
+C:\MyProgramsPing\PingIDAPI\PingIDAPI\obj\Debug\PingIDAPI.Form1.resources
+C:\MyProgramsPing\PingIDAPI\PingIDAPI\obj\Debug\PingIDAPI.Properties.Resources.resources
+C:\MyProgramsPing\PingIDAPI\PingIDAPI\obj\Debug\PingIDAPI.csproj.GenerateResource.Cache
+C:\MyProgramsPing\PingIDAPI\PingIDAPI\obj\Debug\PingIDAPI.exe
+C:\MyProgramsPing\PingIDAPI\PingIDAPI\obj\Debug\PingIDAPI.pdb
+C:\MyProgramsPing\PingIDAPI\PingIDAPI\bin\Debug\jose-jwt.dll
